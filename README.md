@@ -1,3 +1,3 @@
 # alura-estudo-css
 
-Estudo de CSS
+Estudo de CSS utilizando o projeto **Fruta e Fruto**
